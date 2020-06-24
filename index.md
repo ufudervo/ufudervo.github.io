@@ -12,3 +12,4 @@ Der kleine Prinz ist eine mit eigenen Bildern illustrierte Geschichte des franzÃ
 Mein Lieblingszitat vom kleinen Prinzen:
 > Man sieht nur mit dem Herzen gut. Das Wesentliche ist fÃ¼r die Augen unsichtbar.
 
+<img src="https://upload.wikimedia.org/wikipedia/de/b/bc/Kleiner_Prinz_-_Die_gro%C3%9Fen_Leute.jpg"/>
